@@ -2,10 +2,8 @@ package mydsacode;
 
 public class BinarySearch {
 	
-
-	 static int findPeak(int arr[], int n) 
+	static int findPeak(int arr[], int n) 
 	    { 
-	        // First or last element is peak element 
 	        if (n == 1) 
 	            return 0; 
 	        if (arr[0] >= arr[1]) 
@@ -25,7 +23,6 @@ public class BinarySearch {
 		
 		 int arr[]={1,2,3,4,5,6,7,8,2};
 		 System.out.print("Index of a peak point is " + findPeak(arr, arr.length));
-
 	}
 
 }
