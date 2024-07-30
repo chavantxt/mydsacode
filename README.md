@@ -11,3 +11,7 @@ git config --list
  git commit -m "Add existing file"
  git push
 
+## Heap
+ Max Heap : PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>(Collections.reverseOrder());
+ Largest : Min heap |  Smallest : Max heap
+
