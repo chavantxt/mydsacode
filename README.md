@@ -12,5 +12,6 @@ git config --list
  git push
  
 ## Binary search
-To check ascending descending pick any two array element and compare.
+To check ascending descending pick any two array elements and compare.
+Count the difference in the index and add 1.
 
