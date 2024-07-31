@@ -13,5 +13,6 @@ git config --list
 
 ## Heap
  Max Heap : PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>(Collections.reverseOrder());
- Largest : Min heap |  Smallest : Max heap
+ Largest : Min heap |  Smallest : Max heap; 
+ In heap only Element is sorted.
 
