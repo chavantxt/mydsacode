@@ -18,4 +18,10 @@ Nearly sorted : i+1, I, i-1,
 The floor of 5: Nearest smaller element than 5.
 The ceiling of 5: N nearest Largest Element than 
 
+## Array And String 
+1 to N
+Sliding Window
+Query questions
+Multi pointer 
+
 
