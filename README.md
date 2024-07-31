@@ -13,5 +13,6 @@ git config --list
  
 ## Binary search
 To check ascending descending pick any two array elements and compare. 
-Count the difference in the index and add 1 count occurrences.
+Count the difference in the index and add 1 count occurrence.
+Nearly sorted : i+1, I, i-1
 
