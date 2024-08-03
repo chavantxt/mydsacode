@@ -25,3 +25,11 @@ Problem types -
 8. DP on Trees - 4
 9. DP on Grid -14
 10. Others - 5
+
+1. Knapsack Problem
+i. Subsetsum 
+ii. Equal sum partition 
+iii. Count of subsetsum
+iv. Minimum subsetsum
+v. Target sum 
+vi. # of subset given i/p.
